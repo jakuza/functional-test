@@ -1,0 +1,14 @@
+{
+    "require": {
+        "fabpot/goutte":            "v0.1.0",
+        "symfony/css-selector":     "v2.1.4",
+        "symfony/dom-crawler":      "v2.1.4",
+        "phpunit/phpunit":          "3.7.*"
+    },
+
+    "autoload": {
+        "psr-0": {
+            "Jakuza":   "src"
+        }
+    }
+}
