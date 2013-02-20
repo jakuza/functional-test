@@ -1,6 +1,9 @@
 <?php
+/**
+ * @author Jacopo 'Jakuza' Romei <jromei@gmail.com>
+ */
 
-namespace Kijiji\Test;
+namespace Avoja\Test;
 
 use Symfony\Component\DomCrawler\Crawler as BaseCrawler;
 use Symfony\Component\DomCrawler\Form as Form;

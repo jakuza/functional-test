@@ -1,6 +1,9 @@
 <?php
+/**
+ * @author Jacopo 'Jakuza' Romei <jromei@gmail.com>
+ */
 
-namespace Kijiji\Test;
+namespace Avoja\Test;
 
 use Goutte\Client as Goutte;
 

@@ -1,4 +1,13 @@
 {
+    "name":                         "avoja/functional-test",
+    "description":                  "A Guzzle browser embedded in a PHPUnit testcase."
+    "license":                      "LGPL",
+    "authors": [
+        {
+            "name":                 "Jacopo 'Jakuza' Romei",
+            "email":                "jromei@gmail.com"
+        }
+    ],
     "require": {
         "fabpot/goutte":            "v0.1.0",
         "symfony/css-selector":     "v2.1.4",
@@ -8,7 +17,7 @@
 
     "autoload": {
         "psr-0": {
-            "Jakuza":   "src"
+            "Avoja":                "src"
         }
     }
 }
